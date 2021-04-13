@@ -1,5 +1,5 @@
 # Pixbox
-Pixbox movie streaming app
+Pixbox movie streaming app Ui
 
 App Link :https://focused-perlman-cef731.netlify.app/
 
